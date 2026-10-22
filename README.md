@@ -20,7 +20,7 @@
 
 <br/>
 
-`< CURIOSITY />` &nbsp; ✦ &nbsp; `CREATION.exe` &nbsp; ✦ &nbsp; `EXPLORE_THE_VOID`
+`< MIMIC />` &nbsp; ✦ &nbsp; `ADAPT` &nbsp; ✦ &nbsp; `CREATE` &nbsp; ✦ &nbsp;  `I HATE AI SLOP`
 
 </div>
 
