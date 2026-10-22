@@ -1,27 +1,32 @@
+ 
 <!--
-    SBeppiB | Cosmic Developer Profile
-    Replace SBeppiB in the URLs if your GitHub username differs.
+    SBeppiB | Cosmic Pixel Developer Profile
+    Palette: #4C00FF • #FFD700 • #00FFE0 • #4200FF
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090f,40:241044,75:493080,100:09090f&text=SBeppiB&fontColor=ffffff&fontSize=65&fontAlignY=38&desc=POLYMATH%20%E2%80%A2%20CREATOR%20%E2%80%A2%20DEVELOPER&descAlignY=58&descSize=15&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:070510,25:190044,55:4200FF,80:4C00FF,100:070510&text=SBeppiB&fontColor=FFFFFF&fontSize=68&fontAlignY=36&desc=POLYMATH%20%E2%9C%A6%20CREATOR%20%E2%9C%A6%20DEVELOPER&descAlignY=57&descSize=15&animation=fadeIn" width="100%" alt="SBeppiB cosmic banner"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3500&pause=1000&color=BCA7FF&center=true&vCenter=true&width=700&lines=Look+at+the+stars+and+the+void+above%2C;aren%27t+they+beautiful%3F;HI+IM+A+YOUNG+POLYMATH." alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=17&duration=3500&pause=1000&color=00FFE0&center=true&vCenter=true&width=750&lines=Look+at+the+stars+and+the+void+above%2C;aren%27t+they+beautiful%3F;HI+IM+A+YOUNG+POLYMATH." alt="Animated introduction"/>
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/SBeppiB?style=flat-square&color=8b5cf6&labelColor=0d0b14&logo=github)](https://github.com/SBeppiB?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=SBeppiB&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS)](https://github.com/SBeppiB)
-![Focus](https://img.shields.io/badge/FOCUS-CREATION-8b5cf6?style=flat-square&labelColor=0d0b14)
+[![GitHub followers](https://img.shields.io/github/followers/SBeppiB?style=for-the-badge&color=4C00FF&labelColor=080510&logo=github&logoColor=00FFE0)](https://github.com/SBeppiB?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=SBeppiB&style=for-the-badge&color=00FFE0&label=PROFILE+VIEWS&labelColor=080510)](https://github.com/SBeppiB)
+![Focus](https://img.shields.io/badge/FOCUS-CREATION-FFD700?style=for-the-badge&labelColor=080510)
+
+<br/>
+
+`< CURIOSITY />` &nbsp; ✦ &nbsp; `CREATION.exe` &nbsp; ✦ &nbsp; `EXPLORE_THE_VOID`
 
 </div>
 
 ---
 
-## ⟡ `01` — TRANSMISSION
+## `01 // TRANSMISSION`
 
 > *"Look at the stars and the void above, aren't they beautiful?"*
 
@@ -30,92 +35,129 @@ I'm a multidisciplinary creator exploring the intersection of **art, technology,
 I enjoy learning new disciplines, connecting seemingly unrelated ideas, and turning concepts into real projects. Whether I'm building fictional universes, experimenting with AI, designing games, or exploring systems through Linux, my goal is to understand how things work and create something original with that knowledge.
 
 ```text
-┌──────────────────────────────────────────┐
-│  CREATOR PROFILE                          │
-│                                          │
-│  Identity   Polymath / Developer         │
-│  Interests  AI, Art, Software, Systems   │
-│  Philosophy Learn deeply. Build boldly.  │
-│  Current    Minisa / Linux / Homelabs    │
-└──────────────────────────────────────────┘
+╔══════════════════════════════════════════════╗
+║              CREATOR PROFILE                 ║
+╠══════════════════════════════════════════════╣
+║ IDENTITY   > Polymath / Developer            ║
+║ INTERESTS  > AI, Art, Software, Systems      ║
+║ PHILOSOPHY > Learn deeply. Build boldly.     ║
+║ CURRENT    > Minisa / Linux / Homelabs       ║
+╚══════════════════════════════════════════════╝
 ```
 
-## ⟡ `02` — AREAS OF OPERATION
+<div align="center">
+
+### `// A FRAGMENT OF EXISTENCE`
+
+*Do not worry, my dear.*
+
+*For my life is one of billions of stories whispered in this world.*
+
+*The world shall not falter, nor wait, even if it will end so abruptly.*
+
+</div>
+
+---
+
+## `02 // AREAS OF OPERATION`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ✦ Creative Arts
+### ✦ CREATIVE ARTS
 
-- **Writing** · Fiction, worldbuilding, lore, character development
-- **Game Design** · Mechanics, systems, interactive experiences
-- **2D Animation** · Motion, visual storytelling, frame-by-frame craft
-- **3D Modelling** · Blender, digital assets, spatial design
-- **Concept Art** · Characters, environments, visual development
+- **Writing**  
+  Fiction, worldbuilding, lore, character development
+- **Game Design**  
+  Mechanics, systems, interactive experiences
+- **2D Animation**  
+  Motion, visual storytelling, frame-by-frame craft
+- **3D Modelling**  
+  Blender, digital assets, spatial design
+- **Concept Art**  
+  Characters, environments, visual development
 
 </td>
 <td width="50%" valign="top">
 
-### ✦ Technology
+### ✦ TECHNOLOGY
 
-- **Software Development** · Experimental tools and applications
-- **Artificial Intelligence** · Local LLMs and AI experimentation
-- **Linux** · Systems, command-line workflows, administration
-- **Cybersecurity** · Defensive security, malware analysis, networking
-- **Homelabs** · Self-hosting, infrastructure, system exploration
+- **Software Development**  
+  Experimental tools and applications
+- **Artificial Intelligence**  
+  Local LLMs and AI experimentation
+- **Linux**  
+  Systems, command-line workflows, administration
+- **Cybersecurity**  
+  Defensive security, malware analysis, networking
+- **Homelabs**  
+  Self-hosting, infrastructure, system exploration
 
 </td>
 </tr>
 </table>
 
-## ⟡ `03` — FEATURED PROJECT
+---
+
+## `03 // FEATURED PROJECT`
 
 <div align="center">
 
 ### ◈ MINISA
 
-**A local AI project built through experimentation and engineering.**
+**Local intelligence. Independent systems. Endless possibilities.**
 
-An exploration of local language models, software infrastructure, and the possibilities of building AI systems beyond hosted platforms.
+An ongoing project exploring local language models, software infrastructure, and the possibilities of building AI systems beyond hosted platforms.
 
-[![Minisa](https://img.shields.io/badge/PROJECT-MINISA-8b5cf6?style=for-the-badge&logo=probot&logoColor=white)](https://github.com/SBeppiB)
+[![Minisa](https://img.shields.io/badge/PROJECT-MINISA-4C00FF?style=for-the-badge&logo=probot&logoColor=00FFE0)](https://github.com/SBeppiB)
 
-*Local intelligence. Independent systems. Endless possibilities.*
+```text
+> INITIALIZING MINISA
+> EXPLORING LOCAL AI INFRASTRUCTURE
+> BUILDING INDEPENDENT SYSTEMS
+> STATUS: EVOLVING
+```
 
 </div>
 
 > More projects and details will be added as development progresses.
 
-## ⟡ `04` — TECHNOLOGY STACK
+---
+
+## `04 // TECHNOLOGY STACK`
 
 <div align="center">
 
-**Languages & Development**
+### `LANGUAGES & DEVELOPMENT`
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,bash,git,github,vscode&theme=dark" alt="Development technologies"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,bash,git,github,vscode&theme=dark" alt="Languages and development tools"/>
 
-**Systems & Creative Tools**
+### `SYSTEMS & CREATIVE TOOLS`
 
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,blender,unreal,godot,figma&theme=dark" alt="Systems and creative tools"/>
 
 </div>
 
-*This is a collection of interests and tools, not a claim of equal expertise in every technology.*
+> This is a collection of interests and tools, not a claim of equal expertise in every technology.
 
-## ⟡ `05` — GITHUB TELEMETRY
+---
+
+## `05 // GITHUB TELEMETRY`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SBeppiB&show_icons=true&hide_border=true&bg_color=09090f&title_color=BCA7FF&text_color=C9C4D8&icon_color=8B5CF6&ring_color=8B5CF6" height="165" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SBeppiB&show_icons=true&hide_border=true&bg_color=080510&title_color=00FFE0&text_color=E2DCFF&icon_color=FFD700&ring_color=4C00FF" height="170" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBeppiB&layout=compact&hide_border=true&bg_color=09090f&title_color=BCA7FF&text_color=C9C4D8" height="165" alt="Most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBeppiB&layout=compact&hide_border=true&bg_color=080510&title_color=00FFE0&text_color=E2DCFF" height="170" alt="Most used languages"/>
 
-<img src="https://streak-stats.demolab.com?user=SBeppiB&hide_border=true&background=09090f&ring=8B5CF6&fire=BCA7FF&currStreakLabel=BCA7FF&sideLabels=C9C4D8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888399" width="70%" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=SBeppiB&hide_border=true&background=080510&ring=4C00FF&fire=FFD700&currStreakLabel=00FFE0&sideLabels=E2DCFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9388B5" width="75%" alt="GitHub contribution streak"/>
 
 </div>
 
-## ⟡ `06` — CURRENT OBJECTIVES
+---
+
+## `06 // CURRENT OBJECTIVES`
 
 - [ ] Advance development of **Minisa**
 - [ ] Explore local AI infrastructure and language models
@@ -123,7 +165,9 @@ An exploration of local language models, software infrastructure, and the possib
 - [ ] Deepen my understanding of Linux and cybersecurity
 - [ ] Create projects that merge multiple creative and technical disciplines
 
-## ⟡ `07` — THE PHILOSOPHY
+---
+
+## `07 // THE PHILOSOPHY`
 
 <div align="center">
 
@@ -141,6 +185,8 @@ I want to understand how different fields connect, use that knowledge to create 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,50:241044,100:493080&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070510,30:190044,65:4200FF,100:070510&height=130&section=footer" width="100%" alt="Cosmic footer"/>
 
 </div>
+
+<!-- END TRANSMISSION -->
