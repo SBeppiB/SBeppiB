@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3500&pause=1000&color=BCA7FF&center=true&vCenter=true&width=700&lines=Look+at+the+stars+and+the+void+above%2C;aren%27t+they+beautiful%3F;Building+worlds.+Exploring+systems.+Creating+the+unknown." alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3500&pause=1000&color=BCA7FF&center=true&vCenter=true&width=700&lines=Look+at+the+stars+and+the+void+above%2C;aren%27t+they+beautiful%3F;HI+IM+A+YOUNG+POLYMATH." alt="Animated introduction"/>
 
 <br/>
 
