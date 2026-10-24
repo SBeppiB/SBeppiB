@@ -47,13 +47,9 @@ I enjoy learning new disciplines, connecting seemingly unrelated ideas, and turn
 
 <div align="center">
 
-### `// A FRAGMENT OF EXISTENCE`
+### `// i am NOT a one trick pony`
 
-*Do not worry, my dear.*
-
-*For my life is one of billions of stories whispered in this world.*
-
-*The world shall not falter, nor wait, even if it will end so abruptly.*
+*ok if you're not me and you’re reading this somehow, ignore the mess and focus on the colourful stuff. assuming you read at an average pace, this takes TWENTY minutes to fully finish.the whole thing reads like a fevered prophet channeling visions from five parallel dimensions at once. it's got that raw unfiltered creative MANIA that you can't fake*
 
 </div>
 
